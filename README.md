@@ -64,4 +64,3 @@ Se calcularon y compararon **media y varianza muestrales** versus sus **equivale
 
 ---
 
-## 📂 Estructura del Proyecto
